@@ -1,0 +1,27 @@
+body {
+    background-color: azure;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    border: 2px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    padding: 1px;
+    margin: 1px;
+    display: inline-block;
+    text-align: left;
+}
